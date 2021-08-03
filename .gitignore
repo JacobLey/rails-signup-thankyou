@@ -47,6 +47,8 @@ db/*.sqlite3
 /capybara*
 /capybara-*.html
 /gems
+/node_modules
+/public/assets
 /specifications
 rerun.txt
 pickle-email-*.html
